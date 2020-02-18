@@ -1,6 +1,8 @@
 # Free Software FreeSociety
 A presentation on Free Software and Free Society
 
+https://mugunthangit.github.io/fsf_intro/
+
 ### Thanks
 
 Thanks to [rajanand02]
